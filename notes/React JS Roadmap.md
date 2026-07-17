@@ -2,8 +2,8 @@
 1. Hype, job, trend, build UI
 2. makes easy to manage and build complex front end
 ## When should I learn React?
-After mastering JS
-Most projects do not need react in initial phase
+1. After mastering JS
+2. Most projects do not need react in initial phase
 ## Why react was created?
 1. Facebook ghost/ phantom message problem: top chat icon would have total messages unread, after chat, icon used to stay there
 2. No consistency in UI
